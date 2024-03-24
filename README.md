@@ -1,18 +1,12 @@
 # Shubham Chandra
 
 **Location:** NY | **Phone:** (716) 247 3249
-
-- **[GitHub](https://github.com/ShubhamChandra)**
-- **[LinkedIn](https://www.linkedin.com/in/ShubhamChandra)**
-- **[Email](mailto:ShubhamChandra@gmail.com)**
-- **[Portfolio](https://ShubhamChandraPortfolio.com)**
+**[GitHub](https://github.com/Shubham235Chandra)** | **[LinkedIn](https://www.linkedin.com/in/schandra235/)** | **[Email](mailto:shubhamchandrawork@gmail.com)** | **[Portfolio](https://shubham235chandra.github.io/)**
 
 ## Education
+- MS, Data Science (Engineering Science) | University of Buffalo, The State University of New York (_May 2024_)
+- BTECH, Computer Science and Engineering | Presidency University (_May 2019_)
 
-### University of Buffalo, The State University of New York
-- **Master of Science in Data Science (Engineering Science)**, GPA: 3.74/4.0
-- Buffalo, NY
-- Jan 2023 - May 2024
 
 ## Work Experience
 
@@ -38,23 +32,51 @@
 - **IT & Cloud Consultant**, May 2017 - July 2017
   - Improved client issue resolution rates by 15% through strategic IT and cloud consulting for clients like ISRO and ACT Broadband.
 
-## Technical Skills
+## Technical Expertise
 
-- **Languages, Tools, and Services:** Python, R, MATLAB, SQL (PostgreSQL, MySQL), AWS (EC2, S3, RDS, Lambda), Tableau, Power BI, MS Excel, Jira, Apache Spark, Jupyter Notebook, Git, GitHub, GitLab, Hadoop.
-- **Data Science & Analysis:** Libraries (NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, PyTorch, TensorFlow), Statistical Techniques (Hypothesis Testing, ANOVA, t-tests, Regression Analysis), Requirements Analysis, Process Improvement, Model Development.
-- **Machine Learning Algorithms:** Supervised Learning (Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forest, Gradient Boosting, Neural Networks), Unsupervised Learning (K-Means, Hierarchical Clustering, DBSCAN, PCA, t-SNE), Ensemble Methods (Bagging, Boosting, Stacking).
-- **Methodologies and Skills:** Agile, Scrum, Database Management, Data Warehousing, CI/CD Pipeline, Pattern Recognition, Leadership, Teamwork, Effective Communication, Stakeholder Management.
+### Programming Languages & Tools
+- **Languages:** Python, R, MATLAB, SQL (including PostgreSQL and MySQL)
+- **Cloud Services:** AWS (EC2, S3, RDS, Lambda)
+- **Data Visualization & BI Tools:** Tableau, Power BI
+- **Development & Collaboration Tools:** Git, GitHub, GitLab, Jira, MS Excel
+- **Data Engineering Tools:** Apache Spark, Hadoop
+- **Analytical Tools:** Jupyter Notebook
+
+### Data Science & Analytics
+- **Core Libraries:** NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib
+- **Advanced Analytics:** PyTorch, TensorFlow for deep learning; statistical analysis techniques including Hypothesis Testing, ANOVA, t-tests, and Regression Analysis
+- **Data Strategy & Process Improvement:** Requirements Analysis, Model Development, Process Improvement
+
+### Machine Learning & AI
+- **Supervised Learning Algorithms:** Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forest, Gradient Boosting, Neural Networks
+- **Unsupervised Learning & Clustering:** K-Means, Hierarchical Clustering, DBSCAN, Principal Component Analysis (PCA), t-Distributed Stochastic Neighbor Embedding (t-SNE)
+- **Ensemble Techniques:** Bagging, Boosting, Stacking for improved model accuracy and performance
+
+### Methodologies & Soft Skills
+- **Project Management:** Proficient in Agile and Scrum methodologies for efficient and collaborative project development
+- **Database & Data Management:** Expertise in Database Management, Data Warehousing, ensuring data integrity, security, and accessibility
+- **Leadership & Communication:** Demonstrated leadership in guiding teams towards achieving goals, fostering teamwork, and ensuring effective stakeholder communication
+- **Innovation & Problem-Solving:** Commitment to innovation through continuous learning and applying creative solutions to complex problems
+
+### Additional Skills
+- **Security & Compliance:** Knowledge of data security practices, GDPR compliance, and implementation of secure data handling processes
+- **Continuous Integration/Continuous Deployment (CI/CD):** Experience with CI/CD pipelines for automating software delivery and deployment
+- **Pattern Recognition & Analysis:** Advanced capabilities in identifying trends and patterns within data for insightful analysis
+
 
 ## Academic Project Experience
 
-### London Bike Sharing: Analytics and Forecasting, Tableau
+### London Bike Sharing: Analytics and Forecasting, [Tableau](https://public.tableau.com/app/profile/shubham.chandra3232/viz/PedalingInsights/PedalingInsightsNavigatingthePulseofLondonStreetsbyBike?publish=yes)
 - **Data Visualization**, Jan 2024 - Mar 2024
-  - Enhanced urban transportation planning and user experience via a Tableau dashboard for bike-sharing usage and demand prediction.
+  - **Project Overview:** Aimed to redefine urban transportation planning with an intelligent data visualization approach using Tableau, creating a dashboard to analyze bike-sharing usage patterns in London.
+  - **Key Achievements:** Predicted bike-sharing demand with time series analysis, offering actionable insights for resource allocation and sustainable urban transport enhancement.
 
-### Beyond the Haze: Insights into India’s Air Quality, Python, Jupyter Notebook, Streamlit, Excel | [GitHub](https://github.com/ShubhamChandra/BeyondTheHaze)
+### Beyond the Haze: Insights into India’s Air Quality, Python, Jupyter Notebook, Streamlit, Excel | [GitHub](https://github.com/Shubham235Chandra/Beyond-the-Haze)
 - **Data Science**, Aug 2023 - Dec 2023
-  - Built a Python-based predictive analytics platform to estimate AQI and utilized clustering to depict air quality trends.
+  - **Project Overview:** Developed a predictive analytics platform using Python to estimate the Air Quality Index (AQI) and analyze air quality trends in India, leveraging clustering algorithms for deeper insights.
+  - **Key Achievements:** Enabled stakeholders to make informed decisions on combating air pollution through data-driven environmental health insights.
 
-### Pharma Engine: Transforming Medicine Information, MySQL, Xampp, HTML, PHP, Apache | [GitHub](https://github.com/ShubhamChandra/PharmaEngine)
+### Pharma Engine: Transforming Medicine Information, MySQL, Xampp, HTML, PHP, Apache | [GitHub](https://github.com/Shubham235Chandra/Pharma-Engine)
 - **SQL**, Aug 2023 - Dec 2023
-  - Developed a MySQL and PHP-based system for healthcare professionals to access drug information, ensuring data accuracy through normalization and exploratory analysis.
+  - **Project Overview:** Designed a MySQL and PHP-based digital solution for healthcare professionals to access comprehensive drug information efficiently, ensuring accuracy and up-to-date data.
+  - **Key Achievements:** Enhanced patient care and medical practice decision-making by providing reliable and accessible pharmaceutical information.
