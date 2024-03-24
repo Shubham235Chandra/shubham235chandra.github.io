@@ -1,11 +1,11 @@
 # Shubham Chandra
 
 **Location:** NY | **Phone:** (716) 247 3249
-**[GitHub](https://github.com/Shubham235Chandra)** | **[LinkedIn](https://www.linkedin.com/in/schandra235/)** | **[Email](mailto:shubhamchandrawork@gmail.com)** | **[Portfolio](https://shubham235chandra.github.io/)**
+**[GitHub](https://github.com/Shubham235Chandra)** | **[LinkedIn](https://www.linkedin.com/in/schandra235/)** | **[UBMail](mailto:sc366@buffalo.edu)** | **[Email](mailto:shubhamchandrawork@gmail.com)** | **[Portfolio](https://shubham235chandra.github.io/)**
 
 ## Education
-- MS, Data Science (Engineering Science) | University of Buffalo, The State University of New York (_May 2024_)
-- BTECH, Computer Science and Engineering | Presidency University (_May 2019_)
+MS, Data Science (Engineering Science) | University of Buffalo, The State University of New York (_May 2024_)
+BTECH, Computer Science and Engineering | Presidency University (_May 2019_)
 
 
 ## Work Experience
@@ -37,8 +37,8 @@
 ### Programming Languages & Tools
 - **Languages:** Python, R, MATLAB, SQL (including PostgreSQL and MySQL)
 - **Cloud Services:** AWS (EC2, S3, RDS, Lambda)
-- **Data Visualization & BI Tools:** Tableau, Power BI
-- **Development & Collaboration Tools:** Git, GitHub, GitLab, Jira, MS Excel
+- **Data Visualization & BI Tools:** Tableau, Power BI, MS Excel
+- **Development & Collaboration Tools:** Git, GitHub, GitLab, Jira
 - **Data Engineering Tools:** Apache Spark, Hadoop
 - **Analytical Tools:** Jupyter Notebook
 
@@ -66,17 +66,17 @@
 
 ## Academic Project Experience
 
-### London Bike Sharing: Analytics and Forecasting, [Tableau](https://public.tableau.com/app/profile/shubham.chandra3232/viz/PedalingInsights/PedalingInsightsNavigatingthePulseofLondonStreetsbyBike?publish=yes)
+### London Bike Sharing: Analytics and Forecasting | [Tableau](https://public.tableau.com/app/profile/shubham.chandra3232/viz/PedalingInsights/PedalingInsightsNavigatingthePulseofLondonStreetsbyBike?publish=yes)
 - **Data Visualization**, Jan 2024 - Mar 2024
   - **Project Overview:** Aimed to redefine urban transportation planning with an intelligent data visualization approach using Tableau, creating a dashboard to analyze bike-sharing usage patterns in London.
   - **Key Achievements:** Predicted bike-sharing demand with time series analysis, offering actionable insights for resource allocation and sustainable urban transport enhancement.
 
-### Beyond the Haze: Insights into India’s Air Quality, Python, Jupyter Notebook, Streamlit, Excel | [GitHub](https://github.com/Shubham235Chandra/Beyond-the-Haze)
+### Beyond the Haze: Insights into India’s Air Quality | Python, Jupyter Notebook, Streamlit, Excel | [GitHub](https://github.com/Shubham235Chandra/Beyond-the-Haze)
 - **Data Science**, Aug 2023 - Dec 2023
   - **Project Overview:** Developed a predictive analytics platform using Python to estimate the Air Quality Index (AQI) and analyze air quality trends in India, leveraging clustering algorithms for deeper insights.
   - **Key Achievements:** Enabled stakeholders to make informed decisions on combating air pollution through data-driven environmental health insights.
 
-### Pharma Engine: Transforming Medicine Information, MySQL, Xampp, HTML, PHP, Apache | [GitHub](https://github.com/Shubham235Chandra/Pharma-Engine)
+### Pharma Engine: Transforming Medicine Information | MySQL, Xampp, HTML, PHP, Apache | [GitHub](https://github.com/Shubham235Chandra/Pharma-Engine)
 - **SQL**, Aug 2023 - Dec 2023
   - **Project Overview:** Designed a MySQL and PHP-based digital solution for healthcare professionals to access comprehensive drug information efficiently, ensuring accuracy and up-to-date data.
   - **Key Achievements:** Enhanced patient care and medical practice decision-making by providing reliable and accessible pharmaceutical information.
